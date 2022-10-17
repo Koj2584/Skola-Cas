@@ -1,0 +1,11 @@
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\bin\Debug\Skola - Cas a Datum.exe.config
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\bin\Debug\Skola - Cas a Datum.exe
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\bin\Debug\Skola - Cas a Datum.pdb
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola - Cas a Datum.csprojAssemblyReference.cache
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola___Cas_a_Datum.Form1.resources
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola___Cas_a_Datum.Properties.Resources.resources
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola - Cas a Datum.csproj.GenerateResource.cache
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola - Cas a Datum.csproj.CoreCompileInputs.cache
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola - Cas a Datum.exe
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola - Cas a Datum.pdb
+M:\ITB3\vomelaj.05\Dokumenty\Csharp\Skola - Cas a Datum\Skola - Cas a Datum\obj\Debug\Skola___Cas_a_Datum.Form2.resources
